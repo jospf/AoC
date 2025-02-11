@@ -24,3 +24,4 @@ with Path(file_path).open() as file:
             valid_count +=1
 
 print(valid_count)
+
