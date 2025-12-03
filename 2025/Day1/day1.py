@@ -15,3 +15,5 @@ with open('input.txt', 'r') as file:
 print(zeros)
 
 # Count 0
+
+
